@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T18:15:07Z",
+  "updated": "2026-04-09T19:35:17Z",
   "agency": "Department of Energy",
   "opportunities": [
     {
@@ -11,7 +11,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361773",
       "description": "",
-      "opp_number": "DE-FOA-0003589"
+      "opp_number": "DE-FOA-0003589",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "DE-FOA-0003548",
@@ -22,7 +29,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361628",
       "description": "",
-      "opp_number": "DE-FOA-0003548"
+      "opp_number": "DE-FOA-0003548",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "DE-FOA-0003472",
@@ -33,7 +47,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361365",
       "description": "",
-      "opp_number": "DE-FOA-0003472"
+      "opp_number": "DE-FOA-0003472",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     }
   ]
 }

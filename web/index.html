@@ -19,6 +19,16 @@
     <button type="button" data-tab="dod">DoD</button>
   </nav>
 
+  <div class="sort-bar">
+    <span class="sort-label">Sort by:</span>
+    <button type="button" class="sort-btn active" data-sort="open_date">Open Date</button>
+    <button type="button" class="sort-btn" data-sort="close_date">Close Date</button>
+    <button type="button" class="sort-btn" data-sort="AI">AI</button>
+    <button type="button" class="sort-btn" data-sort="Transportation">Transportation</button>
+    <button type="button" class="sort-btn" data-sort="Health">Health</button>
+    <button type="button" class="sort-btn" data-sort="Spatiotemporal">Spatiotemporal</button>
+  </div>
+
   <main>
     <section id="nsf" class="tab-panel active" data-source="nsf.json"></section>
     <section id="doe" class="tab-panel" data-source="doe.json"></section>

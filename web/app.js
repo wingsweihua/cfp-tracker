@@ -2,7 +2,14 @@
   var DATA_BASE = window.DATA_BASE || "";
   var tabs = document.querySelectorAll(".tabs button");
   var panels = document.querySelectorAll(".tab-panel");
+  var sortBtns = document.querySelectorAll(".sort-btn");
 
+  // Store loaded data per panel id for re-sorting
+  var panelData = {};
+  var currentSort = "open_date";
+  var RELEVANCE_TOPICS = ["AI", "Transportation", "Health", "Spatiotemporal"];
+
+  // ── Tab switching ──
   function switchTab(id) {
     tabs.forEach(function (b) {
       b.classList.toggle("active", b.getAttribute("data-tab") === id);
@@ -18,6 +25,21 @@
     });
   });
 
+  // ── Sort switching ──
+  sortBtns.forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      sortBtns.forEach(function (b) { b.classList.remove("active"); });
+      btn.classList.add("active");
+      currentSort = btn.getAttribute("data-sort");
+      // Re-render all panels with new sort
+      panels.forEach(function (panel) {
+        var data = panelData[panel.id];
+        if (data) renderPanel(panel, data);
+      });
+    });
+  });
+
+  // ── Helpers ──
   function escapeHtml(s) {
     if (!s) return "";
     var div = document.createElement("div");
@@ -33,6 +55,39 @@
     return '<span class="badge">' + escapeHtml(status) + '</span>';
   }
 
+  function sortOpportunities(opps, sortKey) {
+    var sorted = opps.slice(); // copy
+    if (sortKey === "open_date" || sortKey === "close_date") {
+      sorted.sort(function (a, b) {
+        var da = a[sortKey] || "";
+        var db = b[sortKey] || "";
+        return db.localeCompare(da); // desc: newest first
+      });
+    } else if (RELEVANCE_TOPICS.indexOf(sortKey) !== -1) {
+      sorted.sort(function (a, b) {
+        var sa = (a.relevance && a.relevance[sortKey]) || 0;
+        var sb = (b.relevance && b.relevance[sortKey]) || 0;
+        return sb - sa; // desc: most relevant first
+      });
+    }
+    return sorted;
+  }
+
+  function renderRelevanceTags(opp) {
+    var rel = opp.relevance;
+    if (!rel) return "";
+    var html = '<div class="relevance-tags">';
+    RELEVANCE_TOPICS.forEach(function (topic) {
+      var score = rel[topic] || 0;
+      var cls = "rel-tag";
+      if (score >= 3) cls += " high";
+      else if (score === 0) cls += " zero";
+      html += '<span class="' + cls + '">' + escapeHtml(topic) + ': ' + score + '</span>';
+    });
+    html += '</div>';
+    return html;
+  }
+
   function renderOpp(opp) {
     var desc = opp.description || "";
     var hasDesc = desc.length > 0;
@@ -45,6 +100,7 @@
     if (opp.close_date) html += '<span>Close: ' + escapeHtml(opp.close_date) + '</span>';
     html += statusBadge(opp.status);
     html += '</div>';
+    html += renderRelevanceTags(opp);
     if (hasDesc) {
       html += '<div class="opp-description collapsed">' + escapeHtml(desc) + '</div>';
     }
@@ -60,9 +116,11 @@
       panel.classList.remove("loading");
       return;
     }
-    var updated = data.updated ? '<p class="updated">Updated: ' + escapeHtml(data.updated) + '</p>' : "";
+    var sorted = sortOpportunities(data.opportunities, currentSort);
+    var sortLabel = currentSort;
+    var updated = data.updated ? '<p class="updated">Updated: ' + escapeHtml(data.updated) + ' · Sorted by: ' + escapeHtml(sortLabel) + '</p>' : "";
     var count = '<p class="count-info">' + data.opportunities.length + ' opportunities from ' + escapeHtml(data.agency || "") + '</p>';
-    panel.innerHTML = updated + count + data.opportunities.map(renderOpp).join("");
+    panel.innerHTML = updated + count + sorted.map(renderOpp).join("");
     panel.classList.remove("loading");
     // Click to expand description
     panel.querySelectorAll(".opp-description.collapsed").forEach(function (el) {
@@ -82,7 +140,10 @@
         if (!r.ok) throw new Error(r.statusText);
         return r.json();
       })
-      .then(function (data) { renderPanel(panel, data); })
+      .then(function (data) {
+        panelData[panel.id] = data; // cache for re-sorting
+        renderPanel(panel, data);
+      })
       .catch(function (err) {
         panel.classList.remove("loading");
         panel.innerHTML = '<p class="error">Failed to load: ' + escapeHtml(err.message) + '</p>';

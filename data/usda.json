@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T18:15:07Z",
+  "updated": "2026-04-09T19:35:17Z",
   "agency": "U.S. Department of Agriculture",
   "opportunities": [
     {
@@ -11,7 +11,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361758",
       "description": "",
-      "opp_number": "USDA-NIFA-EME-32358"
+      "opp_number": "USDA-NIFA-EME-32358",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "USDA-NIFA-KMB-32361",
@@ -22,7 +29,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361738",
       "description": "",
-      "opp_number": "USDA-NIFA-KMB-32361"
+      "opp_number": "USDA-NIFA-KMB-32361",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "RDBCP-DHCS-2026",
@@ -33,7 +47,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361725",
       "description": "",
-      "opp_number": "RDBCP-DHCS-2026"
+      "opp_number": "RDBCP-DHCS-2026",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 1,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "USDA-NIFA-D113A-32357",
@@ -44,7 +65,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361441",
       "description": "",
-      "opp_number": "USDA-NIFA-D113A-32357"
+      "opp_number": "USDA-NIFA-D113A-32357",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "USDA-NIFA-D113A-32483",
@@ -55,7 +83,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361444",
       "description": "",
-      "opp_number": "USDA-NIFA-D113A-32483"
+      "opp_number": "USDA-NIFA-D113A-32483",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "USDA-NIFA-D113A-32481",
@@ -66,7 +101,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361443",
       "description": "",
-      "opp_number": "USDA-NIFA-D113A-32481"
+      "opp_number": "USDA-NIFA-D113A-32481",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "RD-RBCS-26-RMAP-LOAN",
@@ -77,7 +119,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361374",
       "description": "",
-      "opp_number": "RD-RBCS-26-RMAP-LOAN"
+      "opp_number": "RD-RBCS-26-RMAP-LOAN",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "RD-RBCS-26-RMAP",
@@ -88,7 +137,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361373",
       "description": "",
-      "opp_number": "RD-RBCS-26-RMAP"
+      "opp_number": "RD-RBCS-26-RMAP",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "RDBCP-VAPG-2026",
@@ -99,7 +155,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361290",
       "description": "",
-      "opp_number": "RDBCP-VAPG-2026"
+      "opp_number": "RDBCP-VAPG-2026",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "USDA-NIFA-AFRI-011677",
@@ -110,7 +173,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361211",
       "description": "",
-      "opp_number": "USDA-NIFA-AFRI-011677"
+      "opp_number": "USDA-NIFA-AFRI-011677",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "USDA-NIFA-AFRI-011596",
@@ -121,7 +191,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361169",
       "description": "",
-      "opp_number": "USDA-NIFA-AFRI-011596"
+      "opp_number": "USDA-NIFA-AFRI-011596",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "USDA-NIFA-VSGP-011778",
@@ -132,7 +209,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361158",
       "description": "",
-      "opp_number": "USDA-NIFA-VSGP-011778"
+      "opp_number": "USDA-NIFA-VSGP-011778",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "USDA-NIFA-AFRI-011134",
@@ -143,7 +227,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/360205",
       "description": "",
-      "opp_number": "USDA-NIFA-AFRI-011134"
+      "opp_number": "USDA-NIFA-AFRI-011134",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "RDBCP-REAP-RES-EEI-2019",
@@ -154,7 +245,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/310029",
       "description": "",
-      "opp_number": "RDBCP-REAP-RES-EEI-2019"
+      "opp_number": "RDBCP-REAP-RES-EEI-2019",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "RDBCP-REAP-RES-EEI-2016",
@@ -165,7 +263,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/279638",
       "description": "",
-      "opp_number": "RDBCP-REAP-RES-EEI-2016"
+      "opp_number": "RDBCP-REAP-RES-EEI-2016",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     }
   ]
 }

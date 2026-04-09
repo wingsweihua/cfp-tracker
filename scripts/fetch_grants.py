@@ -39,6 +39,34 @@ AGENCIES = {
 ROWS_PER_PAGE = 100
 MAX_PAGES = 3  # up to 300 results per agency
 
+# Relevance topics: key = topic label, value = list of keywords (case-insensitive)
+RELEVANCE_TOPICS = {
+    "AI": [
+        "artificial intelligence", "machine learning", "deep learning", "neural network",
+        "natural language processing", "nlp", "computer vision", "reinforcement learning",
+        "generative ai", "large language model", "llm", "data science", "predictive model",
+        "autonomous", "intelligent system", "robotics", "ai-driven", "ai-enabled",
+    ],
+    "Transportation": [
+        "transport", "traffic", "vehicle", "autonomous driving", "connected vehicle",
+        "highway", "transit", "freight", "mobility", "railroad", "aviation",
+        "infrastructure", "road safety", "logistics", "urban planning", "smart city",
+        "electric vehicle", "ev charging",
+    ],
+    "Health": [
+        "health", "biomedical", "clinical", "disease", "medical", "epidemiology",
+        "public health", "mental health", "nutrition", "genomic", "pharmaceutical",
+        "healthcare", "patient", "diagnostic", "therapeutic", "pandemic", "vaccine",
+        "cancer", "diabetes", "obesity",
+    ],
+    "Spatiotemporal": [
+        "spatiotemporal", "spatio-temporal", "geospatial", "geographic information",
+        "gis", "remote sensing", "satellite", "lidar", "spatial analysis",
+        "time series", "temporal", "earth observation", "climate model",
+        "environmental monitoring", "sensor network", "gps", "mapping",
+    ],
+}
+
 
 def _session():
     s = requests.Session()
@@ -100,6 +128,16 @@ def fetch_agency(session, agency_key, cfg):
         if len(hits) < ROWS_PER_PAGE:
             break
         time.sleep(1)  # be polite
+
+    # Compute relevance scores for each item
+    for item in items:
+        text = (item["title"] + " " + item["description"]).lower()
+        relevance = {}
+        for topic, keywords in RELEVANCE_TOPICS.items():
+            score = sum(1 for kw in keywords if kw in text)
+            relevance[topic] = score
+        item["relevance"] = relevance
+        item["relevance_total"] = sum(relevance.values())
 
     return items
 

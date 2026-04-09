@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T18:15:07Z",
+  "updated": "2026-04-09T19:35:17Z",
   "agency": "Department of Defense",
   "opportunities": [
     {
@@ -11,7 +11,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361812",
       "description": "",
-      "opp_number": "W9126G262SOI8766"
+      "opp_number": "W9126G262SOI8766",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "W9126G262SOI8775",
@@ -22,7 +29,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361741",
       "description": "",
-      "opp_number": "W9126G262SOI8775"
+      "opp_number": "W9126G262SOI8775",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "HR001126S0008",
@@ -33,7 +47,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361737",
       "description": "",
-      "opp_number": "HR001126S0008"
+      "opp_number": "HR001126S0008",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "W9127N-26-2-R001",
@@ -44,7 +65,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361721",
       "description": "",
-      "opp_number": "W9127N-26-2-R001"
+      "opp_number": "W9127N-26-2-R001",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "W9126G262SOI8227",
@@ -55,7 +83,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361701",
       "description": "",
-      "opp_number": "W9126G262SOI8227"
+      "opp_number": "W9126G262SOI8227",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "W9126G262SOI8872",
@@ -66,7 +101,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361531",
       "description": "",
-      "opp_number": "W9126G262SOI8872"
+      "opp_number": "W9126G262SOI8872",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "W9126G262SOI8658",
@@ -77,7 +119,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361436",
       "description": "",
-      "opp_number": "W9126G262SOI8658"
+      "opp_number": "W9126G262SOI8658",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "W9126G262SOI8777",
@@ -88,7 +137,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361437",
       "description": "",
-      "opp_number": "W9126G262SOI8777"
+      "opp_number": "W9126G262SOI8777",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "HR001125S0013",
@@ -99,7 +155,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/359239",
       "description": "",
-      "opp_number": "HR001125S0013"
+      "opp_number": "HR001125S0013",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     }
   ]
 }

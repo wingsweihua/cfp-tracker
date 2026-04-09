@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T18:15:07Z",
+  "updated": "2026-04-09T19:35:17Z",
   "agency": "National Science Foundation",
   "opportunities": [
     {
@@ -11,7 +11,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361664",
       "description": "",
-      "opp_number": "26-508"
+      "opp_number": "26-508",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "26-507",
@@ -22,7 +29,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361604",
       "description": "",
-      "opp_number": "26-507"
+      "opp_number": "26-507",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "26-506",
@@ -33,7 +47,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361333",
       "description": "",
-      "opp_number": "26-506"
+      "opp_number": "26-506",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "26-505",
@@ -44,7 +65,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361297",
       "description": "",
-      "opp_number": "26-505"
+      "opp_number": "26-505",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "26-504",
@@ -55,7 +83,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361249",
       "description": "",
-      "opp_number": "26-504"
+      "opp_number": "26-504",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-98-1610",
@@ -66,7 +101,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361184",
       "description": "",
-      "opp_number": "PD-98-1610"
+      "opp_number": "PD-98-1610",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "26-502",
@@ -77,7 +119,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361009",
       "description": "",
-      "opp_number": "26-502"
+      "opp_number": "26-502",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "26-501",
@@ -88,7 +137,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/361008",
       "description": "",
-      "opp_number": "26-501"
+      "opp_number": "26-501",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-549",
@@ -99,7 +155,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/360664",
       "description": "",
-      "opp_number": "25-549"
+      "opp_number": "25-549",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-544",
@@ -110,7 +173,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/360371",
       "description": "",
-      "opp_number": "25-544"
+      "opp_number": "25-544",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-545",
@@ -121,7 +191,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/360350",
       "description": "",
-      "opp_number": "25-545"
+      "opp_number": "25-545",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-543",
@@ -132,7 +209,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/360149",
       "description": "",
-      "opp_number": "25-543"
+      "opp_number": "25-543",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-540",
@@ -143,7 +227,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/359966",
       "description": "",
-      "opp_number": "25-540"
+      "opp_number": "25-540",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-537",
@@ -154,7 +245,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/359499",
       "description": "",
-      "opp_number": "25-537"
+      "opp_number": "25-537",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "22-622",
@@ -165,7 +263,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/359103",
       "description": "",
-      "opp_number": "22-622"
+      "opp_number": "22-622",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-563",
@@ -176,7 +281,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/359104",
       "description": "",
-      "opp_number": "24-563"
+      "opp_number": "24-563",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-562",
@@ -187,7 +299,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/359061",
       "description": "",
-      "opp_number": "24-562"
+      "opp_number": "24-562",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "PD-19-126Y",
@@ -198,7 +317,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/358882",
       "description": "",
-      "opp_number": "PD-19-126Y"
+      "opp_number": "PD-19-126Y",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-25-058Y",
@@ -209,7 +335,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/358682",
       "description": "",
-      "opp_number": "PD-25-058Y"
+      "opp_number": "PD-25-058Y",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-25-275Y",
@@ -220,7 +353,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/358684",
       "description": "",
-      "opp_number": "PD-25-275Y"
+      "opp_number": "PD-25-275Y",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-566",
@@ -231,7 +371,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/358689",
       "description": "",
-      "opp_number": "23-566"
+      "opp_number": "23-566",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-16-1266",
@@ -242,7 +389,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/358569",
       "description": "",
-      "opp_number": "PD-16-1266"
+      "opp_number": "PD-16-1266",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "14-579",
@@ -253,7 +407,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/358403",
       "description": "",
-      "opp_number": "14-579"
+      "opp_number": "14-579",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-25-342Y",
@@ -264,7 +425,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/358397",
       "description": "",
-      "opp_number": "PD-25-342Y"
+      "opp_number": "PD-25-342Y",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "25-531",
@@ -275,7 +443,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/358004",
       "description": "",
-      "opp_number": "25-531"
+      "opp_number": "25-531",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "25-525",
@@ -286,7 +461,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/357893",
       "description": "",
-      "opp_number": "25-525"
+      "opp_number": "25-525",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-526",
@@ -297,7 +479,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/357826",
       "description": "",
-      "opp_number": "25-526"
+      "opp_number": "25-526",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-523",
@@ -308,7 +497,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/357725",
       "description": "",
-      "opp_number": "25-523"
+      "opp_number": "25-523",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "25-522",
@@ -319,7 +515,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/357724",
       "description": "",
-      "opp_number": "25-522"
+      "opp_number": "25-522",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "25-516",
@@ -330,7 +533,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/357609",
       "description": "",
-      "opp_number": "25-516"
+      "opp_number": "25-516",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-518",
@@ -341,7 +551,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/357578",
       "description": "",
-      "opp_number": "25-518"
+      "opp_number": "25-518",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-519",
@@ -352,7 +569,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/357579",
       "description": "",
-      "opp_number": "25-519"
+      "opp_number": "25-519",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-517",
@@ -363,7 +587,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/357580",
       "description": "",
-      "opp_number": "25-517"
+      "opp_number": "25-517",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-515",
@@ -374,7 +605,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/357554",
       "description": "",
-      "opp_number": "25-515"
+      "opp_number": "25-515",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-514",
@@ -385,7 +623,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/357498",
       "description": "",
-      "opp_number": "25-514"
+      "opp_number": "25-514",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-510",
@@ -396,7 +641,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/357105",
       "description": "",
-      "opp_number": "25-510"
+      "opp_number": "25-510",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "25-502",
@@ -407,7 +659,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/356659",
       "description": "",
-      "opp_number": "25-502"
+      "opp_number": "25-502",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-24-7789",
@@ -418,7 +677,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/356536",
       "description": "",
-      "opp_number": "PD-24-7789"
+      "opp_number": "PD-24-7789",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-24-7791",
@@ -429,7 +695,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/356537",
       "description": "",
-      "opp_number": "PD-24-7791"
+      "opp_number": "PD-24-7791",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "PD-24-7790",
@@ -440,7 +713,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/356538",
       "description": "",
-      "opp_number": "PD-24-7790"
+      "opp_number": "PD-24-7790",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-608",
@@ -451,7 +731,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/356472",
       "description": "",
-      "opp_number": "24-608"
+      "opp_number": "24-608",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-24-7298",
@@ -462,7 +749,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/356425",
       "description": "",
-      "opp_number": "PD-24-7298"
+      "opp_number": "PD-24-7298",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-598",
@@ -473,7 +767,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/356129",
       "description": "",
-      "opp_number": "24-598"
+      "opp_number": "24-598",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "24-597",
@@ -484,7 +785,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/356119",
       "description": "",
-      "opp_number": "24-597"
+      "opp_number": "24-597",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-24-8084",
@@ -495,7 +803,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/356055",
       "description": "",
-      "opp_number": "PD-24-8084"
+      "opp_number": "PD-24-8084",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-588",
@@ -506,7 +821,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/355270",
       "description": "",
-      "opp_number": "24-588"
+      "opp_number": "24-588",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-584",
@@ -517,7 +839,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/355100",
       "description": "",
-      "opp_number": "24-584"
+      "opp_number": "24-584",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-573",
@@ -528,7 +857,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/354269",
       "description": "",
-      "opp_number": "24-573"
+      "opp_number": "24-573",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "24-571",
@@ -539,7 +875,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/354144",
       "description": "",
-      "opp_number": "24-571"
+      "opp_number": "24-571",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-570",
@@ -550,7 +893,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/353962",
       "description": "",
-      "opp_number": "24-570"
+      "opp_number": "24-570",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-569",
@@ -561,7 +911,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/353936",
       "description": "",
-      "opp_number": "24-569"
+      "opp_number": "24-569",
+      "relevance": {
+        "AI": 1,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "PD-24-7414",
@@ -572,7 +929,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/353475",
       "description": "",
-      "opp_number": "PD-24-7414"
+      "opp_number": "PD-24-7414",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "24-564",
@@ -583,7 +947,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/353413",
       "description": "",
-      "opp_number": "24-564"
+      "opp_number": "24-564",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-18-1263",
@@ -594,7 +965,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/353353",
       "description": "",
-      "opp_number": "PD-18-1263"
+      "opp_number": "PD-18-1263",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-561",
@@ -605,7 +983,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/353135",
       "description": "",
-      "opp_number": "24-561"
+      "opp_number": "24-561",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 2,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 2
     },
     {
       "id": "24-547",
@@ -616,7 +1001,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/352500",
       "description": "",
-      "opp_number": "24-547"
+      "opp_number": "24-547",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-546",
@@ -627,7 +1019,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/352499",
       "description": "",
-      "opp_number": "24-546"
+      "opp_number": "24-546",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-543",
@@ -638,7 +1037,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/352454",
       "description": "",
-      "opp_number": "24-543"
+      "opp_number": "24-543",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-544",
@@ -649,7 +1055,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/352455",
       "description": "",
-      "opp_number": "24-544"
+      "opp_number": "24-544",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-540",
@@ -660,7 +1073,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/352339",
       "description": "",
-      "opp_number": "24-540"
+      "opp_number": "24-540",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-539",
@@ -671,7 +1091,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/352338",
       "description": "",
-      "opp_number": "24-539"
+      "opp_number": "24-539",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-529",
@@ -682,7 +1109,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/351947",
       "description": "",
-      "opp_number": "24-529"
+      "opp_number": "24-529",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-528",
@@ -693,7 +1127,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/351923",
       "description": "",
-      "opp_number": "24-528"
+      "opp_number": "24-528",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "24-527",
@@ -704,7 +1145,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/351889",
       "description": "",
-      "opp_number": "24-527"
+      "opp_number": "24-527",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-24-110Z",
@@ -715,7 +1163,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/351715",
       "description": "",
-      "opp_number": "PD-24-110Z"
+      "opp_number": "PD-24-110Z",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-506",
@@ -726,7 +1181,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/350910",
       "description": "",
-      "opp_number": "24-506"
+      "opp_number": "24-506",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "24-503",
@@ -737,7 +1199,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/350802",
       "description": "",
-      "opp_number": "24-503"
+      "opp_number": "24-503",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-24-1699",
@@ -748,7 +1217,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/350561",
       "description": "",
-      "opp_number": "PD-24-1699"
+      "opp_number": "PD-24-1699",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-277Y",
@@ -759,7 +1235,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/350469",
       "description": "",
-      "opp_number": "PD-23-277Y"
+      "opp_number": "PD-23-277Y",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "PD-24-1340",
@@ -770,7 +1253,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/350230",
       "description": "",
-      "opp_number": "PD-24-1340"
+      "opp_number": "PD-24-1340",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-1242",
@@ -781,7 +1271,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/350018",
       "description": "",
-      "opp_number": "PD-23-1242"
+      "opp_number": "PD-23-1242",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-619",
@@ -792,7 +1289,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/350002",
       "description": "",
-      "opp_number": "23-619"
+      "opp_number": "23-619",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-618",
@@ -803,7 +1307,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/349980",
       "description": "",
-      "opp_number": "23-618"
+      "opp_number": "23-618",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-5115",
@@ -814,7 +1325,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/349929",
       "description": "",
-      "opp_number": "PD-23-5115"
+      "opp_number": "PD-23-5115",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-572",
@@ -825,7 +1343,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/349724",
       "description": "",
-      "opp_number": "23-572"
+      "opp_number": "23-572",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-612",
@@ -836,7 +1361,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/349655",
       "description": "",
-      "opp_number": "23-612"
+      "opp_number": "23-612",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-611",
@@ -847,7 +1379,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/349654",
       "description": "",
-      "opp_number": "23-611"
+      "opp_number": "23-611",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-606",
@@ -858,7 +1397,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/349343",
       "description": "",
-      "opp_number": "23-606"
+      "opp_number": "23-606",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-603",
@@ -869,7 +1415,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/349280",
       "description": "",
-      "opp_number": "23-603"
+      "opp_number": "23-603",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-602",
@@ -880,7 +1433,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/349109",
       "description": "",
-      "opp_number": "23-602"
+      "opp_number": "23-602",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-601",
@@ -891,7 +1451,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/348985",
       "description": "",
-      "opp_number": "23-601"
+      "opp_number": "23-601",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-1401",
@@ -902,7 +1469,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/348932",
       "description": "",
-      "opp_number": "PD-23-1401"
+      "opp_number": "PD-23-1401",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-1403",
@@ -913,7 +1487,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/348793",
       "description": "",
-      "opp_number": "PD-23-1403"
+      "opp_number": "PD-23-1403",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-1491",
@@ -924,7 +1505,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/348794",
       "description": "",
-      "opp_number": "PD-23-1491"
+      "opp_number": "PD-23-1491",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-5342",
@@ -935,7 +1523,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/348795",
       "description": "",
-      "opp_number": "PD-23-5342"
+      "opp_number": "PD-23-5342",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-5345",
@@ -946,7 +1541,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/348796",
       "description": "",
-      "opp_number": "PD-23-5345"
+      "opp_number": "PD-23-5345",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 2,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 2
     },
     {
       "id": "23-598",
@@ -957,7 +1559,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/348599",
       "description": "",
-      "opp_number": "23-598"
+      "opp_number": "23-598",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-595",
@@ -968,7 +1577,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/348375",
       "description": "",
-      "opp_number": "23-595"
+      "opp_number": "23-595",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-18-7607",
@@ -979,7 +1595,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/348258",
       "description": "",
-      "opp_number": "PD-18-7607"
+      "opp_number": "PD-18-7607",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-1320",
@@ -990,7 +1613,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/348164",
       "description": "",
-      "opp_number": "PD-23-1320"
+      "opp_number": "PD-23-1320",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-1321",
@@ -1001,7 +1631,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/348058",
       "description": "",
-      "opp_number": "PD-23-1321"
+      "opp_number": "PD-23-1321",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-586",
@@ -1012,7 +1649,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/348012",
       "description": "",
-      "opp_number": "23-586"
+      "opp_number": "23-586",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "22-605",
@@ -1023,7 +1667,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/347749",
       "description": "",
-      "opp_number": "22-605"
+      "opp_number": "22-605",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "23-580",
@@ -1034,7 +1685,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/347679",
       "description": "",
-      "opp_number": "23-580"
+      "opp_number": "23-580",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "23-578",
@@ -1045,7 +1703,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/347680",
       "description": "",
-      "opp_number": "23-578"
+      "opp_number": "23-578",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "PD-23-1407",
@@ -1056,7 +1721,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/347509",
       "description": "",
-      "opp_number": "PD-23-1407"
+      "opp_number": "PD-23-1407",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-1179",
@@ -1067,7 +1739,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/347323",
       "description": "",
-      "opp_number": "PD-23-1179"
+      "opp_number": "PD-23-1179",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-1406",
@@ -1078,7 +1757,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/347324",
       "description": "",
-      "opp_number": "PD-23-1406"
+      "opp_number": "PD-23-1406",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
     },
     {
       "id": "PD-23-1415",
@@ -1089,7 +1775,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/347325",
       "description": "",
-      "opp_number": "PD-23-1415"
+      "opp_number": "PD-23-1415",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     },
     {
       "id": "PD-23-1417",
@@ -1100,7 +1793,14 @@
       "status": "posted",
       "link": "https://www.grants.gov/search-results-detail/347326",
       "description": "",
-      "opp_number": "PD-23-1417"
+      "opp_number": "PD-23-1417",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
     }
   ]
 }
