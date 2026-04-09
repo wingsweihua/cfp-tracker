@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CFP Tracker — Federal Funding Opportunities</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>CFP Tracker</h1>
+    <p class="subtitle">NSF · DoE · USDA · DoD — Call for Proposals</p>
+  </header>
+
+  <nav class="tabs">
+    <button type="button" data-tab="nsf" class="active">NSF</button>
+    <button type="button" data-tab="doe">DoE</button>
+    <button type="button" data-tab="usda">USDA</button>
+    <button type="button" data-tab="dod">DoD</button>
+  </nav>
+
+  <main>
+    <section id="nsf" class="tab-panel active" data-source="nsf.json"></section>
+    <section id="doe" class="tab-panel" data-source="doe.json"></section>
+    <section id="usda" class="tab-panel" data-source="usda.json"></section>
+    <section id="dod" class="tab-panel" data-source="dod.json"></section>
+  </main>
+
+  <script>
+    (function () {
+      var path = window.location.pathname || "";
+      window.DATA_BASE = (path.indexOf("/web/") !== -1 || path.endsWith("web")) ? "../" : "";
+    })();
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>

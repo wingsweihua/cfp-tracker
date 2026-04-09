@@ -1,0 +1,39 @@
+name: Fetch CFPs and deploy site
+
+on:
+  push:
+    branches: [main, master]
+  schedule:
+    # Run daily at UTC 12:00 (~US morning)
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch funding opportunities
+        run: python scripts/fetch_all.py
+
+      - name: Prepare site (web + data)
+        run: |
+          mkdir -p _site/data
+          cp -r web/* _site/
+          cp data/*.json _site/data/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _site
+          force_orphan: true
