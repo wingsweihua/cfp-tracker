@@ -1,0 +1,60 @@
+{
+  "updated": "2026-04-30T13:20:10Z",
+  "agency": "Department of Energy",
+  "opportunities": [
+    {
+      "id": "DE-FOA-0003589",
+      "title": "Critical Minerals and Materials Accelerator Notice of Funding Opportunity",
+      "agency": "Golden Field Office",
+      "open_date": "2026-04-07",
+      "close_date": "2026-07-23",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361773",
+      "description": "",
+      "opp_number": "DE-FOA-0003589",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "DE-FOA-0003548",
+      "title": "Unleashing Tribal Energy Development",
+      "agency": "Golden Field Office",
+      "open_date": "2026-03-25",
+      "close_date": "2026-07-24",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361628",
+      "description": "",
+      "opp_number": "DE-FOA-0003548",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "DE-FOA-0003472",
+      "title": "Next-Generation Geothermal Field Tests and Geothermal Resource Characterization and Confirmation",
+      "agency": "Golden Field Office",
+      "open_date": "2026-02-25",
+      "close_date": "2026-05-14",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361365",
+      "description": "",
+      "opp_number": "DE-FOA-0003472",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    }
+  ]
+}
