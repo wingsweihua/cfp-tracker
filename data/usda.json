@@ -1,0 +1,456 @@
+{
+  "updated": "2026-05-07T13:27:11Z",
+  "agency": "U.S. Department of Agriculture",
+  "opportunities": [
+    {
+      "id": "RD-RBS-26-04",
+      "title": "Meat and Poultry Processing Expansion Program - Phase 4",
+      "agency": "Rural Business-Cooperative Service ",
+      "open_date": "2026-05-07",
+      "close_date": "2026-08-07",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362298",
+      "description": "",
+      "opp_number": "RD-RBS-26-04",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-DAG2PI-32940",
+      "title": "Agricultural Genome to Phenome Initiative - Research Grants",
+      "agency": "National Institute of Food and Agriculture-eRA",
+      "open_date": "2026-04-30",
+      "close_date": "2026-06-29",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362143",
+      "description": "",
+      "opp_number": "USDA-NIFA-DAG2PI-32940",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-DAG2PI-32942",
+      "title": "Agricultural Genome to Phenome Initiative - Workshop Grants",
+      "agency": "National Institute of Food and Agriculture-eRA",
+      "open_date": "2026-04-30",
+      "close_date": "2026-06-29",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362144",
+      "description": "",
+      "opp_number": "USDA-NIFA-DAG2PI-32942",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-RIGP-011736",
+      "title": "Resident Instruction Grants for Institutions of Higher Education in Insular Areas Agriculture and Food Science Facilities and Equipment Program for Insular Areas",
+      "agency": "National Institute of Food and Agriculture",
+      "open_date": "2026-04-29",
+      "close_date": "2026-06-15",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362117",
+      "description": "",
+      "opp_number": "USDA-NIFA-RIGP-011736",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-RIGP-011716",
+      "title": "Distance Education Grants Program for Institutions of Higher Education in Insular Areas",
+      "agency": "National Institute of Food and Agriculture",
+      "open_date": "2026-04-29",
+      "close_date": "2026-06-15",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362114",
+      "description": "",
+      "opp_number": "USDA-NIFA-RIGP-011716",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-OP-011738",
+      "title": "Alfalfa Seed and Alfalfa Forage Systems",
+      "agency": "National Institute of Food and Agriculture",
+      "open_date": "2026-04-28",
+      "close_date": "2026-06-12",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362094",
+      "description": "",
+      "opp_number": "USDA-NIFA-OP-011738",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-OTHER-011816",
+      "title": "Open Data Framework",
+      "agency": "National Institute of Food and Agriculture",
+      "open_date": "2026-04-27",
+      "close_date": "2026-06-26",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362078",
+      "description": "",
+      "opp_number": "USDA-NIFA-OTHER-011816",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-ICGP-011699",
+      "title": "Methyl Bromide Transition Program",
+      "agency": "National Institute of Food and Agriculture",
+      "open_date": "2026-04-27",
+      "close_date": "2026-06-29",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362080",
+      "description": "",
+      "opp_number": "USDA-NIFA-ICGP-011699",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "USDA-NIFA-SLBCD-011656",
+      "title": "Assistive Technology Program for Farmers with Disabilities",
+      "agency": "National Institute of Food and Agriculture",
+      "open_date": "2026-04-23",
+      "close_date": "2026-06-23",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362043",
+      "description": "",
+      "opp_number": "USDA-NIFA-SLBCD-011656",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-SLBCD-011858",
+      "title": "Federally Recognized Tribes Extension Program",
+      "agency": "National Institute of Food and Agriculture",
+      "open_date": "2026-04-22",
+      "close_date": "2026-06-08",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362018",
+      "description": "",
+      "opp_number": "USDA-NIFA-SLBCD-011858",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-RHSE-011696",
+      "title": "Rural Health and Safety Education Competitive Grants Program",
+      "agency": "National Institute of Food and Agriculture",
+      "open_date": "2026-04-22",
+      "close_date": "2026-06-23",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362028",
+      "description": "",
+      "opp_number": "USDA-NIFA-RHSE-011696",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 1,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "USDA-NIFA-TCRGP-011697",
+      "title": "Tribal Colleges Research Grants Program",
+      "agency": "National Institute of Food and Agriculture",
+      "open_date": "2026-04-22",
+      "close_date": "2026-12-31",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362029",
+      "description": "",
+      "opp_number": "USDA-NIFA-TCRGP-011697",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-SCRI-011676",
+      "title": "Specialty Crop Research Initiative",
+      "agency": "National Institute of Food and Agriculture",
+      "open_date": "2026-04-13",
+      "close_date": "2026-06-15",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361873",
+      "description": "",
+      "opp_number": "USDA-NIFA-SCRI-011676",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-EME-32358",
+      "title": "Renewable Resource Extension Act National Focus Fund Projects",
+      "agency": "National Institute of Food and Agriculture-eRA",
+      "open_date": "2026-04-06",
+      "close_date": "2026-06-08",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361758",
+      "description": "",
+      "opp_number": "USDA-NIFA-EME-32358",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "RDBCP-DHCS-2026",
+      "title": "Delta Health Care Service Grant Program",
+      "agency": "Rural Business-Cooperative Service ",
+      "open_date": "2026-04-01",
+      "close_date": "2026-06-01",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361725",
+      "description": "",
+      "opp_number": "RDBCP-DHCS-2026",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 1,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "USDA-NIFA-KMB-32361",
+      "title": "Smith-Lever Special Needs Competitive Grants Program",
+      "agency": "National Institute of Food and Agriculture-eRA",
+      "open_date": "2026-04-01",
+      "close_date": "2026-06-01",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361738",
+      "description": "",
+      "opp_number": "USDA-NIFA-KMB-32361",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-D113A-32357",
+      "title": "Organic Agriculture Research and Extension Initiative - OREI Planning Projects for Assistance in Development of Future OREI Proposals Requiring Multi-regional or Regional Coordination",
+      "agency": "National Institute of Food and Agriculture-eRA",
+      "open_date": "2026-03-11",
+      "close_date": "2026-05-14",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361441",
+      "description": "",
+      "opp_number": "USDA-NIFA-D113A-32357",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-D113A-32483",
+      "title": "Organic Agriculture Research and Extension Initiative - OREI Workshop Projects",
+      "agency": "National Institute of Food and Agriculture-eRA",
+      "open_date": "2026-03-11",
+      "close_date": "2026-05-14",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361444",
+      "description": "",
+      "opp_number": "USDA-NIFA-D113A-32483",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-D113A-32481",
+      "title": "Organic Agriculture Research and Extension Initiative - OREI Research Projects with Extension and/or Education Components",
+      "agency": "National Institute of Food and Agriculture-eRA",
+      "open_date": "2026-03-11",
+      "close_date": "2026-05-14",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361443",
+      "description": "",
+      "opp_number": "USDA-NIFA-D113A-32481",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "RD-RBCS-26-RMAP-LOAN",
+      "title": "Rural Microentrepreneur Program(RMAP)",
+      "agency": "Rural Business-Cooperative Service ",
+      "open_date": "2026-02-26",
+      "close_date": "2026-06-30",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361374",
+      "description": "",
+      "opp_number": "RD-RBCS-26-RMAP-LOAN",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "RD-RBCS-26-RMAP",
+      "title": "Rural Microentrepreneur Assistance Program",
+      "agency": "Rural Business-Cooperative Service ",
+      "open_date": "2026-02-26",
+      "close_date": "2026-06-30",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361373",
+      "description": "",
+      "opp_number": "RD-RBCS-26-RMAP",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-AFRI-011596",
+      "title": "Agriculture and Food Research Initiative Competitive Grants Program Education and Workforce Development",
+      "agency": "National Institute of Food and Agriculture",
+      "open_date": "2026-01-20",
+      "close_date": "2026-12-31",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361169",
+      "description": "",
+      "opp_number": "USDA-NIFA-AFRI-011596",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "USDA-NIFA-AFRI-011134",
+      "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
+      "agency": "National Institute of Food and Agriculture",
+      "open_date": "2025-08-01",
+      "close_date": "2026-12-31",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/360205",
+      "description": "",
+      "opp_number": "USDA-NIFA-AFRI-011134",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "RDBCP-REAP-RES-EEI-2019",
+      "title": "Renewable Energy Systems and Energy Efficiency Improvements Program",
+      "agency": "Rural Business-Cooperative Service ",
+      "open_date": "2018-10-30",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/310029",
+      "description": "",
+      "opp_number": "RDBCP-REAP-RES-EEI-2019",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "RDBCP-REAP-RES-EEI-2016",
+      "title": "Renewable Energy Systems and Energy Efficiency Improvements Program",
+      "agency": "Rural Business-Cooperative Service ",
+      "open_date": "2015-10-13",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/279638",
+      "description": "",
+      "opp_number": "RDBCP-REAP-RES-EEI-2016",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    }
+  ]
+}
