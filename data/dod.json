@@ -1,0 +1,42 @@
+{
+  "updated": "2026-05-31T13:13:19Z",
+  "agency": "Department of Defense",
+  "opportunities": [
+    {
+      "id": "W9126G262SOI9383",
+      "title": "Ecological Parameters in the Forested Wetlands of Southern Florida",
+      "agency": "Fort Worth District",
+      "open_date": "2026-05-06",
+      "close_date": "2026-06-05",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362279",
+      "description": "",
+      "opp_number": "W9126G262SOI9383",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "HR001125S0013",
+      "title": "Defense Sciences Office (DSO) Office-wide BAA",
+      "agency": "DARPA - Defense Sciences Office",
+      "open_date": "2025-06-03",
+      "close_date": "2026-06-02",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/359239",
+      "description": "",
+      "opp_number": "HR001125S0013",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    }
+  ]
+}
