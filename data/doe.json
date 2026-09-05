@@ -1,0 +1,60 @@
+{
+  "updated": "2026-09-05T14:11:39Z",
+  "agency": "Department of Energy",
+  "opportunities": [
+    {
+      "id": "DE-FOA-0003647",
+      "title": "Accelerating Scale-up and Pre-piloting of Emerging Chemical Technologies (ASPECT)",
+      "agency": "Golden Field Office",
+      "open_date": "2026-09-04",
+      "close_date": "2026-12-01",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363815",
+      "description": "",
+      "opp_number": "DE-FOA-0003647",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "DE-FOA-0003662",
+      "title": "NOI: PROSPECT Program: Providing Opportunities for Specialized Education in Critical Technologies",
+      "agency": "Golden Field Office",
+      "open_date": "2026-08-07",
+      "close_date": "2027-01-15",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363510",
+      "description": "",
+      "opp_number": "DE-FOA-0003662",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "DE-FOA-0003646",
+      "title": "DE-FOA-0003646 Notice of Intent to Issue DE-FOA-0003647 Accelerating Scale-up and Pre-piloting of Emerging Chemical Technologies (ASPECT)",
+      "agency": "Golden Field Office",
+      "open_date": "2026-07-14",
+      "close_date": "2026-09-14",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363174",
+      "description": "",
+      "opp_number": "DE-FOA-0003646",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    }
+  ]
+}

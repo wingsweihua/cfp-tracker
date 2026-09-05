@@ -1,0 +1,1806 @@
+{
+  "updated": "2026-09-05T14:11:39Z",
+  "agency": "National Science Foundation",
+  "opportunities": [
+    {
+      "id": "20-558",
+      "title": "PFE: Research Initiation in Engineering Formation (PFE: RIEF)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-09-01",
+      "close_date": "2026-11-10",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363764",
+      "description": "",
+      "opp_number": "20-558",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-584",
+      "title": "IUSE: Innovation in Two-Year College STEM Education (ITYC)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-31",
+      "close_date": "2026-12-09",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363752",
+      "description": "",
+      "opp_number": "23-584",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-516",
+      "title": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-21",
+      "close_date": "2076-08-31",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363684",
+      "description": "",
+      "opp_number": "26-516",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-522",
+      "title": "MPS Astronomical Sciences Research Programs (MPS Astro)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-17",
+      "close_date": "2026-11-16",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363620",
+      "description": "",
+      "opp_number": "26-522",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-523",
+      "title": "MPS Physics Research Programs (MPS Physics)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-17",
+      "close_date": "2076-08-17",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363621",
+      "description": "",
+      "opp_number": "26-523",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-520",
+      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-17",
+      "close_date": "2076-08-17",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363612",
+      "description": "",
+      "opp_number": "26-520",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-525",
+      "title": "Expeditions in Computing (Expeditions)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-17",
+      "close_date": "2027-07-27",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363623",
+      "description": "",
+      "opp_number": "26-525",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-519",
+      "title": "MPS Chemistry Research Programs (MPS Chem)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-17",
+      "close_date": "2076-08-20",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363617",
+      "description": "",
+      "opp_number": "26-519",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-518",
+      "title": "Engineering (ENG): Chemical, Bioengineering, Energy, and Transport Systems (CBET)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-17",
+      "close_date": "2076-08-19",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363616",
+      "description": "",
+      "opp_number": "26-518",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "26-514",
+      "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-17",
+      "close_date": "2076-08-19",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363613",
+      "description": "",
+      "opp_number": "26-514",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-517",
+      "title": "Core Research in Biological Sciences (BIO Core)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-17",
+      "close_date": "2076-08-21",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363615",
+      "description": "",
+      "opp_number": "26-517",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-515",
+      "title": "Engineering (ENG): Civil, Mechanical and Manufacturing Innovation (CMMI)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-17",
+      "close_date": "2076-08-26",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363614",
+      "description": "",
+      "opp_number": "26-515",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-521",
+      "title": "MPS Materials Research Programs (MPS Materials)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-17",
+      "close_date": "2076-08-24",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363618",
+      "description": "",
+      "opp_number": "26-521",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-524",
+      "title": "EMERGING FRONTIERS IN RESEARCH AND INNOVATION (EFRI-2026/27): Wave-Based Computing ( EFRI-WBC)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-17",
+      "close_date": "2027-02-11",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363622",
+      "description": "",
+      "opp_number": "26-524",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-513",
+      "title": "U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-08-06",
+      "close_date": "2026-11-04",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363481",
+      "description": "",
+      "opp_number": "26-513",
+      "relevance": {
+        "AI": 1,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 2
+    },
+    {
+      "id": "26-512",
+      "title": "Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-07-21",
+      "close_date": "2026-11-04",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363268",
+      "description": "",
+      "opp_number": "26-512",
+      "relevance": {
+        "AI": 1,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "24-590",
+      "title": "Engineering Research Initiation (ERI)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-07-17",
+      "close_date": "2026-10-09",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363233",
+      "description": "",
+      "opp_number": "24-590",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-511",
+      "title": "NSF Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs: A Pilot Emphasis on Scientific Instrumentation",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-05-22",
+      "close_date": "2026-11-04",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362551",
+      "description": "",
+      "opp_number": "26-511",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "21-588",
+      "title": "EDU Core Research",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-05-15",
+      "close_date": "2026-10-01",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362422",
+      "description": "",
+      "opp_number": "21-588",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-26-367Y",
+      "title": "Chemical Process Systems (CPS)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-04-24",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362061",
+      "description": "",
+      "opp_number": "PD-26-367Y",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-26-369Y",
+      "title": "Engineering Biological and Biomedical Systems (EBBS)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-04-24",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362062",
+      "description": "",
+      "opp_number": "PD-26-369Y",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 2,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 2
+    },
+    {
+      "id": "PD-26-366Y",
+      "title": "Transport Phenomena (TP)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-04-24",
+      "close_date": "2076-08-20",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/362063",
+      "description": "",
+      "opp_number": "PD-26-366Y",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "PD-26-1341",
+      "title": "Professional Formation of Engineers",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-04-17",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361952",
+      "description": "",
+      "opp_number": "PD-26-1341",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-509",
+      "title": "Integrated Data Systems &amp; Services (IDSS)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-04-15",
+      "close_date": "2027-07-27",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361915",
+      "description": "",
+      "opp_number": "26-509",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "20-597",
+      "title": "Arctic Doctoral Dissertation Research Improvement Grants (Arctic DDRIG)  Arctic Social Sciences, Arctic System Sciences, and Arctic Observing Network",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-04-14",
+      "close_date": "2026-12-15",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361896",
+      "description": "",
+      "opp_number": "20-597",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-507",
+      "title": "National Science Foundation Fostering Interdisciplinary Networks to Develop Emergent and Responsive Solutions Foundry",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-03-23",
+      "close_date": "2026-11-18",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361604",
+      "description": "",
+      "opp_number": "26-507",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-506",
+      "title": "Pathways to Enable Secure Open-Source Ecosystems (PESOSE)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-02-19",
+      "close_date": "2027-03-02",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361333",
+      "description": "",
+      "opp_number": "26-506",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-504",
+      "title": "Postdoctoral Research Fellowships in Biology",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-02-05",
+      "close_date": "2026-09-29",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361249",
+      "description": "",
+      "opp_number": "26-504",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "26-503",
+      "title": "Artificial Intelligence and Cybersecurity Education Innovation and Scholarship for Service (CyberAI SFS)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2026-02-04",
+      "close_date": "2027-04-05",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361238",
+      "description": "",
+      "opp_number": "26-503",
+      "relevance": {
+        "AI": 1,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "26-501",
+      "title": "Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-12-12",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/361008",
+      "description": "",
+      "opp_number": "26-501",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-549",
+      "title": "NSF National Innovation Corps Teams (NSF National I-Corps (TM) Teams) program",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-09-26",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/360664",
+      "description": "",
+      "opp_number": "25-549",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-545",
+      "title": "NSF STEM K-12",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-08-22",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/360350",
+      "description": "",
+      "opp_number": "25-545",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-543",
+      "title": "Computer and Information Science and Engineering (CISE): Future Computing Research",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-07-25",
+      "close_date": "2026-09-10",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/360149",
+      "description": "",
+      "opp_number": "25-543",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-540",
+      "title": "National Science Foundation Translation to Practice",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-07-09",
+      "close_date": "2026-11-17",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/359966",
+      "description": "",
+      "opp_number": "25-540",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-537",
+      "title": "NSF-DFG Lead Agency Opportunity in Chemistry and Chemical Process and Transport Systems",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-06-06",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/359499",
+      "description": "",
+      "opp_number": "25-537",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "PD-19-126Y",
+      "title": "Science of Science: Discovery, Communication and Impact",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-05-09",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/358882",
+      "description": "",
+      "opp_number": "PD-19-126Y",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-566",
+      "title": "Archaeology Program Senior Research Awards",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-04-16",
+      "close_date": "2026-12-01",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/358689",
+      "description": "",
+      "opp_number": "23-566",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-25-275Y",
+      "title": "The Research on Research Security Program (RoRS)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-04-16",
+      "close_date": "2076-09-01",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/358684",
+      "description": "",
+      "opp_number": "PD-25-275Y",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-16-1266",
+      "title": "Applied Mathematics",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-03-16",
+      "close_date": "2026-11-16",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/358569",
+      "description": "",
+      "opp_number": "PD-16-1266",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "14-579",
+      "title": "Facilitating Research at Predominantly Undergraduate Institutions:",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-01-31",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/358403",
+      "description": "",
+      "opp_number": "14-579",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-533",
+      "title": "Findable Accessible Interoperable Reusable Open Science",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-01-07",
+      "close_date": "2027-04-14",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/358036",
+      "description": "",
+      "opp_number": "25-533",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-531",
+      "title": "Cybersecurity Innovation for Cyberinfrastructure",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2025-01-04",
+      "close_date": "2027-01-20",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/358004",
+      "description": "",
+      "opp_number": "25-531",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "25-525",
+      "title": "Antarctic Research Requiring U.S. Antarctic Program (USAP) Support for Fieldwork",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-12-22",
+      "close_date": "2027-06-01",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/357893",
+      "description": "",
+      "opp_number": "25-525",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-526",
+      "title": "Antarctic Research Not Requiring U.S. Antarctic Program (USAP) Field Support",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-12-19",
+      "close_date": "2027-01-15",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/357826",
+      "description": "",
+      "opp_number": "25-526",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-523",
+      "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Collaborations for Optimizing Research Ecosystems",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-12-14",
+      "close_date": "2027-07-20",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/357725",
+      "description": "",
+      "opp_number": "25-523",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "25-522",
+      "title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Research Incubators for STEM Excellence (E-RISE)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-12-14",
+      "close_date": "2027-08-10",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/357724",
+      "description": "",
+      "opp_number": "25-522",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "25-516",
+      "title": "Chemical Evolution of the Solid Earth and Volcanology",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-12-10",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/357609",
+      "description": "",
+      "opp_number": "25-516",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-518",
+      "title": "Structure and Physics of the Solid Earth",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-12-07",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/357578",
+      "description": "",
+      "opp_number": "25-518",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-519",
+      "title": "Water, Landscape, and Critical Zone Processes",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-12-07",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/357579",
+      "description": "",
+      "opp_number": "25-519",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-517",
+      "title": "Life and Environments Through Time",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-12-07",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/357580",
+      "description": "",
+      "opp_number": "25-517",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-515",
+      "title": "Security, Privacy, and Trust in Cyberspace",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-12-06",
+      "close_date": "2026-09-28",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/357554",
+      "description": "",
+      "opp_number": "25-515",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-514",
+      "title": "NSF Scholarships in Science, Technology, Engineering, and Mathematics Program",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-12-03",
+      "close_date": "2027-03-02",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/357498",
+      "description": "",
+      "opp_number": "25-514",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "25-510",
+      "title": "Coupling, Energetics, and Dynamics of Atmospheric Regions",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-11-14",
+      "close_date": "2027-03-03",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/357105",
+      "description": "",
+      "opp_number": "25-510",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-24-7789",
+      "title": "Geospace Cluster",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-09-26",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/356536",
+      "description": "",
+      "opp_number": "PD-24-7789",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-24-7791",
+      "title": "Infrastructure Cluster",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-09-26",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/356537",
+      "description": "",
+      "opp_number": "PD-24-7791",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "PD-24-7790",
+      "title": "Atmosphere Cluster",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-09-26",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/356538",
+      "description": "",
+      "opp_number": "PD-24-7790",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-24-7298",
+      "title": "Multilateral Partnerships Leveraging Excellence",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-09-14",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/356425",
+      "description": "",
+      "opp_number": "PD-24-7298",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "24-598",
+      "title": "Mid-scale Research Infrastructure-1",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-08-20",
+      "close_date": "2027-02-08",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/356129",
+      "description": "",
+      "opp_number": "24-598",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "24-597",
+      "title": "U.S. National Science Foundation Research Traineeship (NRT) Program",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-08-17",
+      "close_date": "2026-09-08",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/356119",
+      "description": "",
+      "opp_number": "24-597",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-24-8084",
+      "title": "Computational and Data-Enabled Science and Engineering",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-08-15",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/356055",
+      "description": "",
+      "opp_number": "PD-24-8084",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "24-587",
+      "title": "Research on the Science and Technology Enterprise: Indicators, Statistics, and Methods (NCSES S&amp;T)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-07-01",
+      "close_date": "2027-01-19",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/355219",
+      "description": "",
+      "opp_number": "24-587",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "24-586",
+      "title": "NSF National Quantum Virtual Laboratory - Quantum Testbeds",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-06-28",
+      "close_date": "2027-04-06",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/355196",
+      "description": "",
+      "opp_number": "24-586",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "24-584",
+      "title": "Advanced Technological Education",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-06-25",
+      "close_date": "2026-10-01",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/355100",
+      "description": "",
+      "opp_number": "24-584",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "24-573",
+      "title": "EPSCoR Research Infrastructure Improvement Program: Focused EPSCoR Collaborations Program (FEC)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-05-17",
+      "close_date": "2027-01-26",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/354269",
+      "description": "",
+      "opp_number": "24-573",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "24-569",
+      "title": "Mathematical Foundations of Artificial Intelligence",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-05-02",
+      "close_date": "2026-10-09",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/353936",
+      "description": "",
+      "opp_number": "24-569",
+      "relevance": {
+        "AI": 1,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "PD-24-7414",
+      "title": "Cyberinfrastructure for Public Access and Open Science",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-04-10",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/353475",
+      "description": "",
+      "opp_number": "PD-24-7414",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "24-564",
+      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-04-05",
+      "close_date": "2026-09-08",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/353413",
+      "description": "",
+      "opp_number": "24-564",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-18-1263",
+      "title": "Probability",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-04-03",
+      "close_date": "2026-09-15",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/353353",
+      "description": "",
+      "opp_number": "PD-18-1263",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "24-547",
+      "title": "Plant Genome Research Program",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-02-17",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/352500",
+      "description": "",
+      "opp_number": "24-547",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "24-540",
+      "title": "Established Program to Stimulate Competitive Research (EPSCoR):  Workshop Opportunities",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-02-14",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/352339",
+      "description": "",
+      "opp_number": "24-540",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "24-529",
+      "title": "Innovations in Graduate Education (IGE) Program",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-01-24",
+      "close_date": "2027-03-25",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/351947",
+      "description": "",
+      "opp_number": "24-529",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "24-528",
+      "title": "EPSCoR Research Infrastructure Improvement (RII): EPSCoR Research Fellows",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-01-23",
+      "close_date": "2027-04-13",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/351923",
+      "description": "",
+      "opp_number": "24-528",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "24-527",
+      "title": "GROWING CONVERGENCE RESEARCH",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-01-19",
+      "close_date": "2027-02-08",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/351889",
+      "description": "",
+      "opp_number": "24-527",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-24-110Z",
+      "title": "ECosystem for Leading Innovation in Plasma Science and Engineering (ECLIPSE)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2024-01-06",
+      "close_date": "2026-09-29",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/351715",
+      "description": "",
+      "opp_number": "PD-24-110Z",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "24-503",
+      "title": "Research Experiences for Teachers (RET) in Engineering and Computer Science",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-10-31",
+      "close_date": "2026-10-14",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/350802",
+      "description": "",
+      "opp_number": "24-503",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-23-277Y",
+      "title": "Research Infrastructure in the Social and Behavioral Sciences",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-10-05",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/350469",
+      "description": "",
+      "opp_number": "PD-23-277Y",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "PD-24-1340",
+      "title": "Research in the Formation of Engineers",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-09-17",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/350230",
+      "description": "",
+      "opp_number": "PD-24-1340",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-23-1242",
+      "title": "Plasma Physics",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-08-29",
+      "close_date": "2026-11-16",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/350018",
+      "description": "",
+      "opp_number": "PD-23-1242",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-572",
+      "title": "Arctic Research Opportunities",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-08-02",
+      "close_date": "2027-01-15",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/349724",
+      "description": "",
+      "opp_number": "23-572",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-612",
+      "title": "Division of Materials Research: Topical Materials Research Programs",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-08-01",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/349655",
+      "description": "",
+      "opp_number": "23-612",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-606",
+      "title": "Mathematical Sciences Research Institutes",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-07-19",
+      "close_date": "2029-03-14",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/349343",
+      "description": "",
+      "opp_number": "23-606",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-603",
+      "title": "Mathematical Sciences Postdoctoral Research Fellowships",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-07-14",
+      "close_date": "2026-10-21",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/349280",
+      "description": "",
+      "opp_number": "23-603",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-602",
+      "title": "Facility and Instrumentation Request Process",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-07-06",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/349109",
+      "description": "",
+      "opp_number": "23-602",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-601",
+      "title": "Research Experiences for Undergraduates (REU)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-06-29",
+      "close_date": "2027-08-18",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/348985",
+      "description": "",
+      "opp_number": "23-601",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-598",
+      "title": "Historically Black Colleges and Universities - Excellence in Research",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-06-08",
+      "close_date": "2026-10-20",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/348599",
+      "description": "",
+      "opp_number": "23-598",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-595",
+      "title": "Centers of Research Excellence in Science and Technology (CREST)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-05-25",
+      "close_date": "2026-12-04",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/348375",
+      "description": "",
+      "opp_number": "23-595",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-18-7607",
+      "title": "Energy, Power, Control, and Networks",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-05-19",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/348258",
+      "description": "",
+      "opp_number": "PD-18-7607",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-23-1320",
+      "title": "Economics",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-05-17",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/348164",
+      "description": "",
+      "opp_number": "PD-23-1320",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "22-605",
+      "title": "Division of Chemistry: Disciplinary Research Programs",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-04-26",
+      "close_date": "2026-09-30",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/347749",
+      "description": "",
+      "opp_number": "22-605",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-580",
+      "title": "Infrastructure Capacity for Biological Research",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-04-21",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/347679",
+      "description": "",
+      "opp_number": "23-580",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "23-578",
+      "title": "Infrastructure Innovation for Biological Research",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-04-21",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/347680",
+      "description": "",
+      "opp_number": "23-578",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "23-573",
+      "title": "Archaeometry",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-04-05",
+      "close_date": "2026-12-01",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/347331",
+      "description": "",
+      "opp_number": "23-573",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-569",
+      "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-03-21",
+      "close_date": "2026-09-09",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/347026",
+      "description": "",
+      "opp_number": "23-569",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 2,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 2
+    },
+    {
+      "id": "PD-18-7564",
+      "title": "Communications, Circuits, and Sensing-Systems",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-02-17",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/346204",
+      "description": "",
+      "opp_number": "PD-18-7564",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-23-221Y",
+      "title": "Growing Research Access for Nationally Transformative Economic Development",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-02-17",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/346203",
+      "description": "",
+      "opp_number": "PD-23-221Y",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "PD-18-1517",
+      "title": "Electronics, Photonics and Magnetic Devices",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2023-02-08",
+      "close_date": "",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/345872",
+      "description": "",
+      "opp_number": "PD-18-1517",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-525",
+      "title": "Oceanographic Facilities and Equipment Support",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2022-12-01",
+      "close_date": "2027-01-11",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/344715",
+      "description": "",
+      "opp_number": "23-525",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-520",
+      "title": "Training-based Workforce Development for Advanced Cyberinfrastructure  (CyberTraining)",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2022-11-22",
+      "close_date": "2027-01-21",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/344608",
+      "description": "",
+      "opp_number": "23-520",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 1,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 1
+    },
+    {
+      "id": "23-519",
+      "title": "Major Research Instrumentation Program",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2022-11-22",
+      "close_date": "2026-11-16",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/344610",
+      "description": "",
+      "opp_number": "23-519",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "23-500",
+      "title": "SBE Postdoctoral Research Fellowships",
+      "agency": "U.S. National Science Foundation",
+      "open_date": "2022-10-08",
+      "close_date": "2026-11-04",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/343980",
+      "description": "",
+      "opp_number": "23-500",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    }
+  ]
+}
