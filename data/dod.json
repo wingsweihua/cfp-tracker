@@ -1,0 +1,42 @@
+{
+  "updated": "2026-10-24T15:02:14Z",
+  "agency": "Department of Defense",
+  "opportunities": [
+    {
+      "id": "DARPARA2701",
+      "title": "Young Faculty Award (YFA) 2027",
+      "agency": "DARPA - Defense Sciences Office",
+      "open_date": "2026-10-20",
+      "close_date": "2027-01-13",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/364129",
+      "description": "",
+      "opp_number": "DARPARA2701",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    },
+    {
+      "id": "HR001126S0015",
+      "title": "Defense Sciences Office (DSO) Office-wide BAA",
+      "agency": "DARPA - Defense Sciences Office",
+      "open_date": "2026-08-28",
+      "close_date": "2027-08-27",
+      "status": "posted",
+      "link": "https://www.grants.gov/search-results-detail/363738",
+      "description": "",
+      "opp_number": "HR001126S0015",
+      "relevance": {
+        "AI": 0,
+        "Transportation": 0,
+        "Health": 0,
+        "Spatiotemporal": 0
+      },
+      "relevance_total": 0
+    }
+  ]
+}
